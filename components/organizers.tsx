@@ -17,8 +17,8 @@ const Organizers = () => {
   ];
 
   return  (
-    <div className='m-3 pr-24 pt-8'>
-      <h2 className='text-4xl font-bold'>Organizers</h2>
+    <div className='m-3 px-2 md:pr-24 pt-8'>
+      <h2 className='text-2xl md:text-4xl font-bold'>Organizers</h2>
       <div className='rounded p-3 mx-3 font-serif'>
         <table className='table-auto border text-center'>
           {organizersList.map((v, i) =>  (

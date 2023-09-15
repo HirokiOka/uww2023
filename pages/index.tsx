@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <Description />
         <div className='bg-pink-100'>
           <Registration />
-          <div className='grid grid-cols-2'>
+          <div className='md:grid md:grid-cols-2'>
             <ImportantDates />
             <Download />
           </div>

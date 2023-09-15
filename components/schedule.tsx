@@ -13,8 +13,8 @@ const Schedule = () => {
   ];
 
   return (
-    <div className='m-3 px-24 pt-8 font-serif'>
-      <h2 className='text-4xl font-bold font-mono'>Schedule</h2>
+    <div className='m-3 md:px-24 pt-8 font-serif'>
+      <h2 className='text-2xl md:text-4xl font-bold font-mono'>Schedule</h2>
       <p className='text-xl mx-4 font-bold font-mono'>12/22 (金)</p>
       <div className='rounded pb-3 mx-4'>
         <table className='table-auto border text-center text-lg'>
