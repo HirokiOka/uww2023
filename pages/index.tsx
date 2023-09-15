@@ -10,14 +10,14 @@ import Sponsors from "../components/Sponsors";
 
 const Home: NextPage = () => {
   return (
-    <div className='bg-red-50'>
+    <div className=''>
       <Head>
         <title>UWW2023</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <main>
         <Description />
-        <div className='bg-red-100'>
+        <div className='bg-pink-100'>
           <Registration />
           <div className='grid grid-cols-2'>
             <ImportantDates />

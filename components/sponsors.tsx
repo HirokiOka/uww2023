@@ -1,6 +1,6 @@
 const Sponsors = () => {
   return (
-    <div className='mx-3 px-24 pb-8 bg-yelow-50'>
+    <div className='mx-3 px-24 pb-8'>
       <h1 className='text-4xl font-bold'>Sponsors</h1>
       <div className='grid grid-cols-2 font-serif'>
         <div className='text-center rounded p-3 m-2'>
