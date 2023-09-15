@@ -1,7 +1,7 @@
 import "tailwindcss/tailwind.css";
 import type { AppProps } from 'next/app';
-import Header from '../components/header';
-import Footer from '../components/footer';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 //import { Noto_Sans_JP } from 'next/font/google';
 
 /*
@@ -13,7 +13,7 @@ const notoSansJapanese = Noto_Sans_JP({
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <main className='font-serif'>
+    <main className='font-mono'>
       <Header />
       <Component {...pageProps} />
       <Footer />

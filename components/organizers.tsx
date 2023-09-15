@@ -11,11 +11,12 @@ const Organizers = () => {
     { "role": "広報 (Webページ・デザイン) ", "name": "岡 大貴 (神戸大) ", },
     { "role": "ローカル", "name": "鷲野 海 (神戸大), 松井菜摘 (神戸大), 金 宏潤 (神戸大)", },
   ];
+
   return  (
-    <div className='p-2 m-3 border-2 border-black rounded-lg'>
-      <h2 className='text-3xl underline mx-2 py-2'>Organizers</h2>
-      <div className='rounded p-3 mx-3'>
-        <table className='table-auto border text-center '>
+    <div className='m-3 pr-24 pt-8'>
+      <h2 className='text-4xl font-bold'>Organizers</h2>
+      <div className='rounded p-3 mx-3 font-serif'>
+        <table className='table-auto border black text-center'>
           {organizersList.map((v, i) =>  (
             <tr key={i}>
               <td className='border px-3 font-bold'>{v.role}</td>
@@ -23,7 +24,6 @@ const Organizers = () => {
             </tr>
           ))}
         </table>
-        <p className='pt-2'>E-mail: uww2022org [at] ubi.eedept.kobe-u.ac.jp</p>
       </div>
     </div>
   );

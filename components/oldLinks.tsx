@@ -7,8 +7,8 @@ const OldLinks = () => {
 
   return (
     <div className='text-center rounded m-2'>
-      <h1 className='text-2xl underline p-1'>Links</h1>
-      <div className='grid grid-cols-4 p-1'>
+      <h1 className='text-2xl font-bold p-1'>Links</h1>
+      <div className='grid grid-cols-4 p-1 text-lg'>
         {uwwYears.map((year, i) => (
           year < 2009
             ? <Link key={i} href={oldLink + year} className='hover:underline'>UWW{year}</Link>

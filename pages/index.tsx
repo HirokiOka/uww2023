@@ -1,25 +1,25 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Description from "../components/description";
-import Registration from "../components/registration";
-import ImportantDates from "../components/importantDates";
-import Download from "../components/download";
-import Schedule from "../components/schedule";
-import Organizers from "../components/organizers";
-import Sponsors from "../components/sponsors";
+import Description from "../components/Description";
+import Registration from "../components/Registration";
+import ImportantDates from "../components/ImportantDates";
+import Download from "../components/Download";
+import Schedule from "../components/Schedule";
+import Organizers from "../components/Organizers";
+import Sponsors from "../components/Sponsors";
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className='bg-red-50'>
       <Head>
         <title>UWW2023</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <main>
         <Description />
-        <div className='grid md:grid-cols-2 sm:grid-cols-none'>
+        <div className='bg-red-100'>
           <Registration />
-          <div className='grid grid-rows2'>
+          <div className='grid grid-cols-2'>
             <ImportantDates />
             <Download />
           </div>
