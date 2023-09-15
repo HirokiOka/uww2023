@@ -1,12 +1,12 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Description from "../components/Description";
-import Registration from "../components/Registration";
-import ImportantDates from "../components/ImportantDates";
-import Download from "../components/Download";
-import Schedule from "../components/Schedule";
-import Organizers from "../components/Organizers";
-import Sponsors from "../components/Sponsors";
+import Description from "components/Description";
+import Registration from "components/Registration";
+import ImportantDates from "components/ImportantDates";
+import Download from "components/Download";
+import Schedule from "components/Schedule";
+import Organizers from "components/Organizers";
+import Sponsors from "components/Sponsors";
 
 const Home: NextPage = () => {
   return (
