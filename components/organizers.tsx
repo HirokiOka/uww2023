@@ -20,7 +20,7 @@ const Organizers = () => {
     <div className='m-3 pr-24 pt-8'>
       <h2 className='text-4xl font-bold'>Organizers</h2>
       <div className='rounded p-3 mx-3 font-serif'>
-        <table className='table-auto border black text-center'>
+        <table className='table-auto border text-center'>
           {organizersList.map((v, i) =>  (
             <tr key={i}>
               <td className='border px-3 font-bold'>{v.role}</td>
