@@ -1,9 +1,10 @@
 import Link from 'next/link';
 
 const OldLinks = () => {
-  const oldLink = 'http://cse.eedept.kobe-u.ac.jp/old_webdata/event/workshop';
-  const recentLink = 'http://cse.eedept.kobe-u.ac.jp/uww';
+  const oldLink = 'https://tt-lab.jp/uww';
+  const recentLink = 'https://tt-lab.jp/uww';
   const uwwYears = new Array(16).fill(0).map((v, i) => v+i+2007);
+  uwwYears.sort((a, b) => b - a);
 
   return (
     <div className='text-center rounded m-2'>
