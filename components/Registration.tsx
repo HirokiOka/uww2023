@@ -6,6 +6,7 @@ const Registration = () => {
         <p className='text-2xl px-2'>参加費</p>
         <p className='text-lg px-4'>一般: 19,000円 (会議参加費10,000円、宿泊費9,000円)</p>
         <p className='text-lg px-4'>学生: 16,000円 (会議参加費7,000円、宿泊費9,000円)</p>
+        <p className='text-2xl p-2 font-bold'>参加登録は締め切りました</p>
         <ul className='list-disc list-inside mx-3 p-2 rounded text-xl'>
           <li>お支払いは当日現金にてお願いします。</li>
          <li>宿泊費は1泊朝食込の金額です。（朝食なしの設定はありません。）</li>

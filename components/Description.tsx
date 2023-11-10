@@ -17,7 +17,7 @@ const Description = () => {
       <p className='text-xl'>本ワークショップの特色は以下の通りです。</p>
       <ul className='list-disc list-inside mx-3 p-3 rounded text-lg'>
         <li>A4原稿1枚記述 (原稿テンプレートは本ページからダウンロードをお願いします。)</li>
-        <li>一人15分程度のショートプレゼンテーション</li>
+        <li>一人10分程度のショートプレゼンテーション</li>
         <li>参加者間の交流を目指した1泊2日の合宿型ワークショップ</li>
         <li>実践的な情報処理技術に関する特別な企画などを含んだ「ナイトセッション」</li>
       </ul>
