@@ -1,0 +1,784 @@
+[
+    {
+        "isSession": true,
+        "eventName": "セッション7 音",
+        "startTime": "8:30",
+        "endTime": "9:40",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "谷重 翔生",
+                "affiliation": "神戸大学",
+                "title": "台本読みの技術向上のための入力音声の音声分析に基づく読み上げ度合い推定手法",
+                "coauthors": [
+                    {
+                        "name": "渡邉 拓貴",
+                        "affiliation": "北海道大"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "式田 陽",
+                "affiliation": "京都産業大学",
+                "title": "身体的フィードバックを用いた空間上ドラム演奏システムにおける演奏者のパフォーマンス向上の提案",
+                "coauthors": [
+                    {
+                        "name": "周 鑠",
+                        "affiliation": "京都産業大学"
+                    },
+                    {
+                        "name": "瀬川 典久",
+                        "affiliation": "京都産業大学"
+                    }
+                ]
+            },
+            {
+                "name": "横山 健琉",
+                "affiliation": "立命館大学",
+                "title": "静電容量型加速度センサに対する音波照射を利用した加速度データへの情報埋め込み",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            },
+            {
+                "name": "辻 凌弥",
+                "affiliation": "神戸大学",
+                "title": "動的な振動付与や音再生・流量変化によって飲料の過剰摂取を防止するストローの提案",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "高橋 大輝",
+                "affiliation": "立命館大学",
+                "title": "アクティブ音響センシングを用いたゆで卵の断面状態識別手法の提案",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            },
+            {
+                "name": "引原 翼",
+                "affiliation": "神戸大学",
+                "title": "和音の構成音のずれから生じるうなりの強調提示による合唱練習支援システムの実装と評価",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "岩切 俊佑",
+                "affiliation": "立命館大学",
+                "title": "アクティブ音響センシングを用いたウェアラブルリングデバイスのための個人認証手法の提案",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "9:40",
+        "endTime": "9:50"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション8 健康・医療",
+        "startTime": "9:50",
+        "endTime": "11:00",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "中山 息吹",
+                "affiliation": "神戸大学",
+                "title": "ウェアラブルセンシングを用いた胃の活動状態推定システムの提案",
+                "coauthors": [
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "田中 智也",
+                "affiliation": "神戸大学",
+                "title": "人の接触と消毒を提示することで接触感染を予防する手法の評価",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "岸野 泰恵",
+                        "affiliation": "NTT コミュニケーション科学基礎研究所"
+                    },
+                    {
+                        "name": "白井 良成",
+                        "affiliation": "NTT コミュニケーション科学基礎研究所"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "村瀬 愛海",
+                "affiliation": "倉敷高等学校",
+                "title": "左手書字によるストレス検証と改善ツールの提案",
+                "coauthors": [
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "竹川 稜祐",
+                "affiliation": "神戸大学",
+                "title": "サポータ型前十字靭帯損傷予防システムのためのストレッチセンサを用いた膝関節屈曲・外反角度推定手法",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "平田 和彦",
+                        "affiliation": "広島大学病院"
+                    },
+                    {
+                        "name": "鳥山 実",
+                        "affiliation": "広島大学病院"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "鈴鹿 聖之介",
+                "affiliation": "立命館大学",
+                "title": "目の疲労軽減のための研究",
+                "coauthors": [
+                    {
+                        "name": "双見 京介",
+                        "affiliation": "立命館大学，Digital Spirits Tech."
+                    },
+                    {
+                        "name": "村尾和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            },
+            {
+                "name": "小田 征史朗",
+                "affiliation": "神戸大学",
+                "title": "身体動作を用いたパズルゲームによるバランス機能の推定手法の提案",
+                "coauthors": [
+                    {
+                        "name": "毛 昊珉",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "土田 修平",
+                        "affiliation": "お茶の水女子大"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "Adhe Rahmatullah Sugiharto Suwito P",
+                "affiliation": "Kobe University",
+                "title": "Contraction Force Estimation of Forearm Muscle Using Stretch-Sensor Glove in Different Cylinder Grasping Power Schemes",
+                "coauthors": [
+                    {
+                        "name": "Ayumi Ohnishi",
+                        "affiliation": "Kobe University"
+                    },
+                    {
+                        "name": "Tsutomu Terada",
+                        "affiliation": "Kobe University"
+                    },
+                    {
+                        "name": "Masahiko Tsukamoto",
+                        "affiliation": "Kobe University"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション9 スポーツ",
+        "startTime": "11:10",
+        "endTime": "12:30",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "Liu Ximan",
+                "affiliation": "兵庫県立神戸高校",
+                "title": "慣性センサを用いたテコンドー不正キック判別システムの提案およびセンサの組合せの検討",
+                "coauthors": [
+                    {
+                        "name": "金 宏潤",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "谷本 維吹",
+                "affiliation": "京都産業大学",
+                "title": "バスケのシュートにおける骨格の動きを比較できるシステムの提案",
+                "coauthors": [
+                    {
+                        "name": "周 鑠",
+                        "affiliation": "京都産業大学"
+                    },
+                    {
+                        "name": "瀬川典久",
+                        "affiliation": "京都産業大学"
+                    }
+                ]
+            },
+            {
+                "name": "秋山 幸輝",
+                "affiliation": "立命館大学",
+                "title": "サッカー初心者のためのリフティング練習支援シューズの設計と実装",
+                "coauthors": [
+                    {
+                        "name": "村尾和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            },
+            {
+                "name": "井上 大雅",
+                "affiliation": "神戸大学",
+                "title": "皆が楽しめるドッジボールを実現するウェアラブルシステムのためのルール設計",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "金 宏潤",
+                "affiliation": "神戸大学",
+                "title": "空手の組手試合中における慣性センサを用いた予備動作有無の推定",
+                "coauthors": [
+                    {
+                        "name": "土田 修平",
+                        "affiliation": "お茶の水女子大"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "水谷 元紀",
+                "affiliation": "神戸大学",
+                "title": "野球のストライク判定のミスを減らすためのARを用いた判定支援システム",
+                "coauthors": [
+                    {
+                        "name": "土田 修平",
+                        "affiliation": "お茶の水女子大"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "水野 悟朗",
+                "affiliation": "立命館大学",
+                "title": "野球ボールに内蔵された加速度センサと角速度センサを用いた投球者識別手法の提案",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    },
+                    {
+                        "name": "長野 明紀",
+                        "affiliation": "立命館大学"
+                    },
+                    {
+                        "name": "柴田 翔平",
+                        "affiliation": "ミズノ株式会社"
+                    },
+                    {
+                        "name": "山田 雄貴",
+                        "affiliation": "ミズノ株式会社"
+                    }
+                ]
+            },
+            {
+                "name": "松見 涼輔",
+                "affiliation": "神戸大学",
+                "title": "サッカーのドリブルにおけるフェイト動作の巧さの3次元動作解析を用いた評価システムの提案",
+                "coauthors": [
+                    {
+                        "name": "土田 修平",
+                        "affiliation": "お茶の水女子大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "昼食",
+        "startTime": "12:30",
+        "endTime": "13:20"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション10 視覚・視線",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "井ノ上 昌哉",
+                "affiliation": "立命館大学",
+                "title": "本人のみが知る画像とそれをもとに生成した画像を提示したときの視線情報を用いた個人認証手法の提案",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            },
+            {
+                "name": "浦久保 翔平",
+                "affiliation": "神戸大学",
+                "title": "周囲の人の注意や関心に気づくためのウェアラブルカメラとARを用いた視線可視化システム",
+                "coauthors": [
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "清家 颯哉",
+                "affiliation": "京都産業大学",
+                "title": "カメラ付きアームを搭載した運搬型ロボットによるエレベータ利用システムの開発",
+                "coauthors": [
+                    {
+                        "name": "瀬川 典久",
+                        "affiliation": "京都産業大学"
+                    }
+                ]
+            },
+            {
+                "name": "柴田 拓磨",
+                "affiliation": "神戸大学",
+                "title": "ライフログを用いた文字入力特性調査に基づく一般物体認識ベース予測変換の候補推定アルゴリズム検討",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "津嶌 匠",
+                "affiliation": "京都産業大学",
+                "title": "花札初心者のためのMRサポートシステムの提案",
+                "coauthors": [
+                    {
+                        "name": "周 鑠",
+                        "affiliation": "京都産業大学"
+                    },
+                    {
+                        "name": "瀬川 典久",
+                        "affiliation": "京都産業大学"
+                    }
+                ]
+            },
+            {
+                "name": "佐藤 宏樹",
+                "affiliation": "神戸大学",
+                "title": "明暗順応支援システムのための進行方向の明るさ変化予測機構",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "山本 剛生",
+                "affiliation": "神戸大学",
+                "title": "少数のLEDで映像を再現するためのLED配置決定手法",
+                "coauthors": [
+                    {
+                        "name": "土田 修平",
+                        "affiliation": "お茶の水女子大"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "宮崎 快利",
+                "affiliation": "京都産業大学",
+                "title": "AIカメラを用いたジェスチャベースのバイオメトリック認証の提案",
+                "coauthors": [
+                    {
+                        "name": "周 鑠",
+                        "affiliation": "京都産業大学"
+                    },
+                    {
+                        "name": "瀬川 典久",
+                        "affiliation": "京都産業大学"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "14:40",
+        "endTime": "14:50"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション11 頭部・顔",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "Salman Al Maghribi Suwandi",
+                "affiliation": "Kobe University",
+                "title": "Investigating the Influence of Color and Shape Target to SSVEP Brain Computer Interface",
+                "coauthors": [
+                    {
+                        "name": "Ayumi Ohnishi",
+                        "affiliation": "Kobe University"
+                    },
+                    {
+                        "name": "Tsutomu Terada",
+                        "affiliation": "Kobe University"
+                    },
+                    {
+                        "name": "Masahiko Tsukamoto",
+                        "affiliation": "Kobe University"
+                    }
+                ]
+            },
+            {
+                "name": "小笹山 涼",
+                "affiliation": "神戸大学",
+                "title": "会話中に好印象な視線行動を促すウェアラブルデバイスの提案",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "猪熊 洸希",
+                "affiliation": "立命館大学",
+                "title": "ヒアラブルデバイス内に搭載した気圧センサを用いた接触・非接触入力手法の提案",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    },
+                    {
+                        "name": "渡邉 拓貴",
+                        "affiliation": "北海道大学"
+                    }
+                ]
+            },
+            {
+                "name": "京極 太一",
+                "affiliation": "神戸大学",
+                "title": "視界の遮蔽による瞳孔径の制御と流動性知能の関係について",
+                "coauthors": [
+                    {
+                        "name": "土田 修平",
+                        "affiliation": "お茶の水女子大"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "大村 一樹",
+                "affiliation": "神戸大学",
+                "title": "ゲーム中の映像酔いを防ぐディスプレイ周辺エフェクトの提案",
+                "coauthors": [
+                    {
+                        "name": "西田 健志",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "遊間 大貴",
+                "affiliation": "立命館大学",
+                "title": "スマートフォンに搭載されたインカメラの顔映像の脈波とアウトカメラの指映像の脈波を利用した個人識別手法の提案",
+                "coauthors": [
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            },
+            {
+                "name": "金辻 陽平",
+                "affiliation": "神戸大学",
+                "title": "タスク切り替え直前の映像提示によるタスク復帰支援システムの実装",
+                "coauthors": [
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "塚本 昌彦",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "五十嵐 雄也",
+                "affiliation": "立命館大学",
+                "title": "Silent Speech Eyewear Interface:赤外線距離センサ付きアイウェア及び耳装着型マイクを用いた無声発話認識手法",
+                "coauthors": [
+                    {
+                        "name": "双見 京介",
+                        "affiliation": "立命館大学，Digital Spirits Tech"
+                    },
+                    {
+                        "name": "村尾 和哉",
+                        "affiliation": "立命館大学"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "16:10",
+        "endTime": "16:20"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション12 一般2",
+        "startTime": "16:20",
+        "endTime": "17:10",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "大西 鮎美",
+                "affiliation": "神戸大学",
+                "title": "柔軟な触覚センサによって浮腫の状態を計測するウェアラブルデバイスの提案",
+                "coauthors": [
+                    {
+                        "name": "多鹿 理絵",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "石井 豊恵",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "毛 昊珉",
+                "affiliation": "神戸大学",
+                "title": "とあるテレビ番組システムの開発から現場開発について",
+                "coauthors": [
+                    {
+                        "name": "中山 息吹",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "大西 鮎美",
+                        "affiliation": "神戸大学"
+                    },
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    }
+                ]
+            },
+            {
+                "name": "石塚 裕己",
+                "affiliation": "大阪大学",
+                "title": "簡易で安価な柔軟なソフトセンサのHCI応用",
+                "coauthors": []
+            },
+            {
+                "name": "寺田 努",
+                "affiliation": "神戸大学",
+                "title": "「待ち」と「移動」に新たな価値をもたせることによる混雑緩和・周遊性向上",
+                "coauthors": []
+            },
+            {
+                "name": "塚本 昌彦",
+                "affiliation": "神戸大学",
+                "title": "カラーパススルーHMDにおける顔映像のリアルタイムモザイク処理について",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "クロージング",
+        "startTime": "17:10",
+        "endTime": "17:30"
+    }
+]

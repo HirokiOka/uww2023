@@ -1,0 +1,356 @@
+[
+    {
+        "isSession": false,
+        "eventName": "受付",
+        "startTime": "9:00",
+        "endTime": "9:30"
+    },
+    {
+        "isSession": false,
+        "eventName": "オープニング",
+        "startTime": "9:30",
+        "endTime": "9:40"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション1 教育・学習",
+        "startTime": "9:40",
+        "endTime": "10:50",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "鷲野 海",
+                "affiliation": "神戸大学",
+                "title": "「興味を惹くが展示物が壊されにくい」展示台開発のための基礎的調査",
+                "coauthors": []
+            },
+            {
+                "name": "矢部 圭太",
+                "affiliation": "神戸大学",
+                "title": "博物館におけるニューロダイバーシティ実現のための展示説明文フォントが読みやすさに与える影響の評価",
+                "coauthors": []
+            },
+            {
+                "name": "新田 隆心",
+                "affiliation": "神戸大学",
+                "title": "集中力を向上させるための行動伝染現象を利用した欠伸誘発システムの検討",
+                "coauthors": []
+            },
+            {
+                "name": "大沢 健太",
+                "affiliation": "神戸大学",
+                "title": "オンライン講義において聴講者の顔映像を用いて聴講者の閲覧ウィンドウを推定するシステムの提案",
+                "coauthors": []
+            },
+            {
+                "name": "岡田 春希",
+                "affiliation": "神戸大学",
+                "title": "和文と英文のタイピングのなめらかさを用いた英語能力推定手法の提案",
+                "coauthors": []
+            },
+            {
+                "name": "児玉 桂子",
+                "affiliation": "神戸大学",
+                "title": "文字認識とAR表示による数式のリアルタイム参照システムの提案",
+                "coauthors": []
+            },
+            {
+                "name": "岡 大貴",
+                "affiliation": "神戸大学",
+                "title": "プログラミング未経験者の興味喚起を目的としたタップ式プログラミングゲームの提案",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "10:50",
+        "endTime": "11:00"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション2 情報提示・支援",
+        "startTime": "11:00",
+        "endTime": "12:10",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "岡竹 正弥",
+                "affiliation": "立命館大学",
+                "title": "センサログに応じた情報提示による行動変容支援に関する研究",
+                "coauthors": []
+            },
+            {
+                "name": "藤本 悠生",
+                "affiliation": "立命館大学",
+                "title": "選好判断を操作するための情報提示の研究",
+                "coauthors": []
+            },
+            {
+                "name": "倉元 良輔",
+                "affiliation": "神戸大学",
+                "title": "読書中の内容理解のためのスクラッピング情報整理支援システムの実装",
+                "coauthors": []
+            },
+            {
+                "name": "上村 暢誉",
+                "affiliation": "立命館大学",
+                "title": "情報提示の知覚チャネル毎の影響の研究",
+                "coauthors": []
+            },
+            {
+                "name": "坂本 匠",
+                "affiliation": "立命館大学",
+                "title": "情報提示が起こす感覚変化が行動変容に与える影響の研究",
+                "coauthors": []
+            },
+            {
+                "name": "周 鑠",
+                "affiliation": "京都産業大学",
+                "title": "電気刺激を活用した両手コーディネーションの向上化トレーニング",
+                "coauthors": []
+            },
+            {
+                "name": "長島 眞美子",
+                "affiliation": "立命館大学",
+                "title": "センサから得た身体情報を用いてビデオゲームプレイヤのパフォーマンスを向上させる手法の提案",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "昼食",
+        "startTime": "12:10",
+        "endTime": "13:00"
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション3 認識・推定",
+        "startTime": "13:00",
+        "endTime": "14:10",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "鈴木 響",
+                "affiliation": "立命館大学",
+                "title": "筋力トレーニングにおける表面筋電位を用いた負荷限界の認識手法",
+                "coauthors": []
+            },
+            {
+                "name": "河野 日生",
+                "affiliation": "立命館大学",
+                "title": "人間行動加速度データのサンプリング周波数推定手法の提案と評価",
+                "coauthors": []
+            },
+            {
+                "name": "渡部 凌",
+                "affiliation": "立命館大学",
+                "title": "脈波センサを用いて上腕が握られた圧力を推定する手法の提案",
+                "coauthors": []
+            },
+            {
+                "name": "國武 勇希",
+                "affiliation": "神戸大学",
+                "title": "充電不要な振動発電素子内蔵靴から得られる発電特徴に基づく路面種別推定手法",
+                "coauthors": []
+            },
+            {
+                "name": "堀田 潤弥",
+                "affiliation": "立命館大学",
+                "title": "爪装着脈波センサを用いた把持物体の温度帯推定",
+                "coauthors": []
+            },
+            {
+                "name": "吉田 航輝",
+                "affiliation": "立命館大学",
+                "title": "上腕圧迫による脈波制御を用いた血管年齢推定手法の検討",
+                "coauthors": []
+            },
+            {
+                "name": "小川 嵩史",
+                "affiliation": "立命館大学大学院",
+                "title": "スマートウォッチの光電脈波センサと加速度センサを用いた筋力トレーニング種目と負荷推定手法の検討",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション4 認知・心理",
+        "startTime": "14:20",
+        "endTime": "15:40",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "藤田 直樹",
+                "affiliation": "神戸大学",
+                "title": "生体情報の類似性強調による一体感創出手法",
+                "coauthors": []
+            },
+            {
+                "name": "中沢 将",
+                "affiliation": "立命館大学",
+                "title": "認知バイアスを抑制するためのインタラクション手順の研究",
+                "coauthors": []
+            },
+            {
+                "name": "岸本 諒大",
+                "affiliation": "神戸大学",
+                "title": "遠隔会議における身体所有感と操作主体感を考慮した顔の部分表示手法の提案",
+                "coauthors": []
+            },
+            {
+                "name": "浅野 恭志",
+                "affiliation": "神戸大学",
+                "title": "顔への表情変化情報投影による話し相手の印象向上システムの設計と実装",
+                "coauthors": []
+            },
+            {
+                "name": "山本 京介",
+                "affiliation": "立命館大学",
+                "title": "ARの情報提示を用いた心身操作に関する研究",
+                "coauthors": []
+            },
+            {
+                "name": "宮嶋 佑輔",
+                "affiliation": "神戸大学",
+                "title": "自身の顔映像への動作合成を用いた自己フィードバックが引き込みに与える影響の調査",
+                "coauthors": []
+            },
+            {
+                "name": "内田 純平",
+                "affiliation": "神戸大学",
+                "title": "瞬き入力インタフェースを用いた条件付けによる紙の読書中の瞬き誘発手法の評価",
+                "coauthors": []
+            },
+            {
+                "name": "雲下 陸央",
+                "affiliation": "立命館大学",
+                "title": "認知パフォーマンスを高めるための疑似センサ情報フィードバックの研究",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション5 ロボット・デバイス",
+        "startTime": "15:50",
+        "endTime": "17:10",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "赤嶺 恭平",
+                "affiliation": "大阪大学",
+                "title": "自由エネルギー最小化による身体マップ再構成",
+                "coauthors": []
+            },
+            {
+                "name": "宮脇 輝",
+                "affiliation": "神戸大学",
+                "title": "装着者の有効視野推定に基づく日常的な見落とし防止のためのウェアラブルデバイスの提案",
+                "coauthors": []
+            },
+            {
+                "name": "望月 万里衣",
+                "affiliation": "神戸大学",
+                "title": "箸型デバイスを用いた力の伝達効率と機能性に基づく箸の使い方の評価",
+                "coauthors": []
+            },
+            {
+                "name": "木村 謙太郎",
+                "affiliation": "大阪大学 大城研究室",
+                "title": "外装を用いたソフトロボットの設計",
+                "coauthors": []
+            },
+            {
+                "name": "井口 瑠久",
+                "affiliation": "神戸大学",
+                "title": "舌筋力トレーニングのためのマスク型デバイスの提案",
+                "coauthors": []
+            },
+            {
+                "name": "松井 菜摘",
+                "affiliation": "神戸大学",
+                "title": "ウェアラブルセンサを用いた経皮水分蒸散量常時計測デバイスの提案と実装",
+                "coauthors": []
+            },
+            {
+                "name": "山本 誠一",
+                "affiliation": "大阪大学",
+                "title": "パウチアクチュエータ用埋め込み式ひずみセンサ",
+                "coauthors": []
+            },
+            {
+                "name": "大城 亨太",
+                "affiliation": "神戸大学",
+                "title": "偏光知覚を実現するウェアラブルシステムの基礎調査",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": true,
+        "eventName": "セッション6 一般1",
+        "startTime": "17:20",
+        "endTime": "18:20",
+        "chairperson": "",
+        "presentations": [
+            {
+                "name": "渡邉 拓貴",
+                "affiliation": "北海道大学",
+                "title": "未定",
+                "coauthors": []
+            },
+            {
+                "name": "双見 京介",
+                "affiliation": "立命館大学",
+                "title": "未定",
+                "coauthors": []
+            },
+            {
+                "name": "土田 修平",
+                "affiliation": "お茶の水女子大学",
+                "title": "ジャンル自動識別による振り付け構造の理解",
+                "coauthors": []
+            },
+            {
+                "name": "大前 秀樹",
+                "affiliation": "神戸大学",
+                "title": "ストレッチャブルLEDディスプレイの伸縮時表示歪補正技術",
+                "coauthors": []
+            },
+            {
+                "name": "瀬川 典久",
+                "affiliation": "京都産業大学",
+                "title": "宇宙産業用電子機器検査装置の開発",
+                "coauthors": []
+            },
+            {
+                "name": "村尾 和哉",
+                "affiliation": "立命館大学",
+                "title": "未定",
+                "coauthors": []
+            }
+        ]
+    },
+    {
+        "isSession": false,
+        "eventName": "諸連絡+部屋鍵受取り",
+        "startTime": "18:20",
+        "endTime": "19:00"
+    },
+    {
+        "isSession": false,
+        "eventName": "懇親会（夕食）",
+        "startTime": "19:00",
+        "endTime": "20:00"
+    },
+    {
+        "isSession": false,
+        "eventName": "ナイトセッション",
+        "startTime": "20:00",
+        "endTime": "23:00"
+    }
+]

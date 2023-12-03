@@ -8,40 +8,35 @@ import Link from 'next/link';
 interface Props {
   dayOne?: any;
   dayTwo?: any;
-  video?: any;
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const dayOnePath = path.join(process.cwd(), 'public', 'data', 'dayOne.json');
-  const dayTwoPath = path.join(process.cwd(), 'public', 'data', 'dayTwo.json');
-  const videoPresenPath = path.join(process.cwd(), 'public', 'data', 'videoPresen.json');
+  const dayOnePath = path.join(process.cwd(), 'public', 'data', 'uww2023_dayOne_a.json');
+  const dayTwoPath = path.join(process.cwd(), 'public', 'data', 'uww2023_dayTwo_a.json');
   const dayOneJSON = fs.readFileSync(dayOnePath).toString();
   const dayTwoJSON = fs.readFileSync(dayTwoPath).toString();
-  const videoPresenJSON = fs.readFileSync(videoPresenPath).toString();
   const dayOne = JSON.parse(dayOneJSON);
   const dayTwo = JSON.parse(dayTwoJSON);
-  const video = JSON.parse(videoPresenJSON);
   return {
-    props: { dayOne, dayTwo, video }
+    props: { dayOne, dayTwo }
   }
 }
 
-const Program: NextPage<Props> = ({ dayOne, dayTwo, video }: Props) => {
+const Program: NextPage<Props> = ({ dayOne, dayTwo }: Props) => {
   const bussSchedules = [
     [
-      ['7:00', '7:48'],
       ['7:30', '8:18'],
       ['8:00', '8:45'],
       ['8:30', '9:18'],
       ['8:55', '9:45'],
-      ['9:30', '10:18'],
+      ['8:30', '9:18'],
+      ['8:55', '9:45'],
     ],
     [
-      ['17:46', '18:32'],
-      ['18:16', '19:02'],
-      ['19:16', '20:02'],
-      ['20:16', '20:58'],
-      ['21:16', '21:58'],
+      ['17:45', '18:32'],
+      ['18:15', '19:02'],
+      ['19:15', '20:02'],
+      ['20:15', '20:31'],
     ],
   ];
   const [scene, setScene] = useState('dayOne');
@@ -55,16 +50,13 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo, video }: Props) => {
     } else if (newScene === 'dayTwo') {
       setScene('dayTwo');
       setProgram(dayTwo);
-    } else if (newScene === 'video') {
-      setScene('video');
-      setProgram(video);
-    } 
+    }
   }
 
   return (
     <>
       <Head>
-        <title>UWW2022</title>
+        <title>UWW2023</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <body>
@@ -77,18 +69,19 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo, video }: Props) => {
                   <td><p className='text-center font-bold'>:発表者</p></td>
                 </tr>
               </table>
+              {/*
               <p className='text-xl'>発表時間: 12分 (目安: 9分発表 + 2分質疑 + 1分転換) </p>
+              */ }
             </div>
             <div className='text-xl text-center md:mx-24'>
-              <button disabled={scene==='dayOne'} onClick={() => changeScene('dayOne')} className={scene === 'dayOne' ? 'm-2 p-2 text-center bg-gray-200 rounded underline' : 'm-2 p-2 text-center rounded hover:bg-gray-200'}>12/23 (金)</button>
-              <button disabled={scene==='dayTwo'} onClick={() => changeScene('dayTwo')} className={scene === 'dayTwo' ? 'm-2 p-2 text-center bg-gray-200 rounded underline' : 'm-2 p-2 text-center rounded hover:bg-gray-200'}>12/24 (土)</button>
-              <button disabled={scene==='video'} onClick={() => changeScene('video')} className={scene === 'video' ? 'm-2 p-2 text-center bg-gray-200 rounded underline' : 'm-2 p-2 text-center rounded hover:bg-gray-200'}>ビデオ発表</button>
+              <button disabled={scene==='dayOne'} onClick={() => changeScene('dayOne')} className={scene === 'dayOne' ? 'm-2 p-2 text-center bg-gray-200 rounded underline' : 'm-2 p-2 text-center rounded hover:bg-gray-200'}>12/22 (金)</button>
+              <button disabled={scene==='dayTwo'} onClick={() => changeScene('dayTwo')} className={scene === 'dayTwo' ? 'm-2 p-2 text-center bg-gray-200 rounded underline' : 'm-2 p-2 text-center rounded hover:bg-gray-200'}>12/23 (土)</button>
             </div>
 
             <div>
               {scene === 'dayOne' ? (
               <div className='text-center p-2 border-black rounded-lg border-2 md:mx-24'>
-                <h1 className='text-2xl font-bold'>23日行き高速バス情報</h1>
+                <h1 className='text-2xl font-bold'>22日行き高速バス情報</h1>
                 <div className='flex justify-center p-2 text-lg'>
                   <table className='table-auto border text-center'>
                     <td className='border px-3 font-bold'>三宮発</td>
@@ -101,7 +94,7 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo, video }: Props) => {
                     ))}
                   </table>
                 </div>
-                <Link href="https://www.yumebutai.co.jp/wp/wp-content/themes/yumebutai/images/access/pdf/bus_timetable_maiko2209.pdf" className='hover:underline text-blue-500'>バス時刻表詳細</Link>
+                <Link href="https://www.yumebutai.org/pdf/time_sin_san_mai.pdf" className='hover:underline text-blue-500'>バス時刻表詳細</Link>
               </div>
               ) : (
                 <>
@@ -154,7 +147,7 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo, video }: Props) => {
               ))}
               {scene === 'dayTwo' ? (
               <div className='text-center p-2 border-black rounded-lg border-2 md:mx-24'>
-                <h1 className='text-2xl font-bold'>24日帰り高速バス情報</h1>
+                <h1 className='text-2xl font-bold'>23日帰り高速バス情報</h1>
                 <div className='flex justify-center p-2 text-lg'>
                   <table className='table-auto border text-center'>
                     <td className='border px-3 font-bold'>淡路夢舞台発</td>
@@ -167,7 +160,7 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo, video }: Props) => {
                     ))}
                   </table>
                 </div>
-                <Link href="https://www.yumebutai.co.jp/wp/wp-content/themes/yumebutai/images/access/pdf/bus_timetable_maiko2209.pdf" className='hover:underline text-blue-500'>バス時刻表詳細</Link>
+                <Link href="https://www.yumebutai.org/pdf/time_sin_san_mai.pdf" className='hover:underline text-blue-500'>バス時刻表詳細</Link>
               </div>
               ) : (
                 <>
