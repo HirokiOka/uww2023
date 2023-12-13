@@ -66,12 +66,10 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo }: Props) => {
               <table className='m-auto'>
                 <tr>
                   <td><img src='./img/presenter.png' width='32' height='32' /></td>
-                  <td><p className='text-center font-bold'>:発表者</p></td>
+                  <td><p className='text-center'>:発表者</p></td>
                 </tr>
               </table>
-              {/*
-              <p className='text-xl'>発表時間: 12分 (目安: 9分発表 + 2分質疑 + 1分転換) </p>
-              */ }
+              <p className='text-xl'>発表時間:10分(発表7分 + 質疑2分 + 転換1分) </p>
             </div>
             <div className='text-xl text-center md:mx-24'>
               <button disabled={scene==='dayOne'} onClick={() => changeScene('dayOne')} className={scene === 'dayOne' ? 'm-2 p-2 text-center bg-gray-200 rounded underline' : 'm-2 p-2 text-center rounded hover:bg-gray-200'}>12/22 (金)</button>
