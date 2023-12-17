@@ -4,7 +4,7 @@
         "eventName": "セッション7 音",
         "startTime": "8:30",
         "endTime": "9:40",
-        "chairperson": "",
+        "chairperson": "渡邉拓貴",
         "presentations": [
             {
                 "name": "谷重 翔生",
@@ -124,7 +124,7 @@
         "eventName": "セッション8 健康・医療",
         "startTime": "9:50",
         "endTime": "11:00",
-        "chairperson": "",
+        "chairperson": "松井菜摘",
         "presentations": [
             {
                 "name": "中山 息吹",
@@ -274,7 +274,7 @@
         "eventName": "セッション9 スポーツ",
         "startTime": "11:10",
         "endTime": "12:30",
-        "chairperson": "",
+        "chairperson": "鷲野 海",
         "presentations": [
             {
                 "name": "Liu Ximan",
@@ -429,7 +429,7 @@
         "eventName": "セッション10 視覚・視線",
         "startTime": "13:20",
         "endTime": "14:40",
-        "chairperson": "",
+        "chairperson": "双見京介",
         "presentations": [
             {
                 "name": "井ノ上 昌哉",
@@ -568,7 +568,7 @@
         "eventName": "セッション11 頭部・顔",
         "startTime": "14:50",
         "endTime": "16:10",
-        "chairperson": "",
+        "chairperson": "毛 昊珉",
         "presentations": [
             {
                 "name": "Salman Al Maghribi Suwandi",
@@ -715,7 +715,7 @@
         "eventName": "セッション12 一般2",
         "startTime": "16:20",
         "endTime": "17:10",
-        "chairperson": "",
+        "chairperson": "土田修平",
         "presentations": [
             {
                 "name": "大西 鮎美",

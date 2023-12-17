@@ -16,7 +16,7 @@
         "eventName": "セッション1 教育・学習",
         "startTime": "9:40",
         "endTime": "10:50",
-        "chairperson": "",
+        "chairperson": "松井菜摘",
         "presentations": [
             {
                 "name": "鷲野 海",
@@ -176,7 +176,7 @@
         "eventName": "セッション2 情報提示・支援",
         "startTime": "11:00",
         "endTime": "12:10",
-        "chairperson": "",
+        "chairperson": "鷲野 海",
         "presentations": [
             {
                 "name": "岡竹 正弥",
@@ -296,7 +296,7 @@
         "eventName": "セッション3 認識・推定",
         "startTime": "13:00",
         "endTime": "14:10",
-        "chairperson": "",
+        "chairperson": "金 宏潤",
         "presentations": [
             {
                 "name": "鈴木 響",
@@ -398,7 +398,7 @@
         "eventName": "セッション4 認知・心理",
         "startTime": "14:20",
         "endTime": "15:40",
-        "chairperson": "",
+        "chairperson": "岡 大貴",
         "presentations": [
             {
                 "name": "藤田 直樹",
@@ -555,7 +555,7 @@
         "eventName": "セッション5 ロボット・デバイス",
         "startTime": "15:50",
         "endTime": "17:10",
-        "chairperson": "",
+        "chairperson": "吉田航輝",
         "presentations": [
             {
                 "name": "赤嶺 恭平",
@@ -724,7 +724,7 @@
         "eventName": "セッション6 一般1",
         "startTime": "17:20",
         "endTime": "18:20",
-        "chairperson": "",
+        "chairperson": "大西鮎美",
         "presentations": [
             {
                 "name": "渡邉 拓貴",

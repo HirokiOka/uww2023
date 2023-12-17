@@ -101,21 +101,11 @@ const Program: NextPage<Props> = ({ dayOne, dayTwo }: Props) => {
               {Object.values(program).map((s: any, i: number) => (
                 <div className='my-4 md:mx-24 p-2 border-black rounded-lg border-2 justify-center' key={i}>
                   <h1 className='text-2xl font-bold text-center'>{s.eventName}</h1>
-                  {(scene !== 'video') ? (
-                    <>
-                      <h1 className='text-xl text-center'>{s.startTime} - {s.endTime}</h1>
-                    </>
-                    ) : (
-                      <></>
-                    )}
+                  <h1 className='text-xl text-center'>{s.startTime} - {s.endTime}</h1>
 
                   {s.isSession ? (
                     <div className='text-center m-4' key={i}>
-                    {scene !== 'video' ? (
-                      <h2>座長: {s.chairperson}</h2>
-                    ) : (
-                      <></>
-                    )}
+                    <h2>座長: {s.chairperson}</h2>
 
                       {s.presentations.map((p: any, j: number) => (
                         <ul className='list-disc list-inside m-2 p-2 rounded-lg bg-gray-100' key={j}>
