@@ -394,6 +394,12 @@
         ]
     },
     {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "14:10",
+        "endTime": "14:20"
+    },
+    {
         "isSession": true,
         "eventName": "セッション4 認知・心理",
         "startTime": "14:20",
@@ -549,6 +555,12 @@
                 ]
             }
         ]
+    },
+    {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "15:40",
+        "endTime": "15:50"
     },
     {
         "isSession": true,
@@ -718,6 +730,12 @@
                 ]
             }
         ]
+    },
+    {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "17:10",
+        "endTime": "17:20"
     },
     {
         "isSession": true,

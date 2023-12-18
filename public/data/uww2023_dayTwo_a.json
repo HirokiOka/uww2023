@@ -270,6 +270,12 @@
         ]
     },
     {
+        "isSession": false,
+        "eventName": "休憩",
+        "startTime": "11:00",
+        "endTime": "11:10"
+    },
+    {
         "isSession": true,
         "eventName": "セッション9 スポーツ",
         "startTime": "11:10",
