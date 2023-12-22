@@ -748,7 +748,12 @@
                 "name": "渡邉 拓貴",
                 "affiliation": "北海道大学",
                 "title": "ヒアラブルデバイスにおける超音波攻撃による空間音響提示手法の基礎検討",
-                "coauthors": []
+                "coauthors": [
+                    {
+                        "name": "寺田 努",
+                        "affiliation": "神戸大学"
+                    }
+                ]
             },
             {
                 "name": "双見 京介",
